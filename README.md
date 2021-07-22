@@ -6,3 +6,4 @@ Article: https://thanifbutt.medium.com/background-subtraction-4ac350833ea
 # References
 https://github.com/rajan9519/Background-subtraction
 
+![alt text](background_subtraction.gif)
